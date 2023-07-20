@@ -15,8 +15,8 @@ body {
 }
 
 nav {
-  margin: 71px auto;
-  padding-top: 30px;
+  margin: 0px auto;
+  padding-top: 71px;
   width: 1080px;
 
   display: flex;
